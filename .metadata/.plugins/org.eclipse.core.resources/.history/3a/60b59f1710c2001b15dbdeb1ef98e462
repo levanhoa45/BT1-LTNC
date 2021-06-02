@@ -1,0 +1,13 @@
+package Hoa.dev;
+import java.util.*;
+public class MainApp {
+	static void input(Student[] students) {
+		syso
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Student[] students = new Student[10];
+		
+	}
+
+}
